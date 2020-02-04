@@ -25,7 +25,7 @@ def power(x, y):
     return total
 
 def count(num):
-    for digit in range(0:num):
+    for digit in range(int(num)):
         print(digit)
 
 def list_sum(lst):
