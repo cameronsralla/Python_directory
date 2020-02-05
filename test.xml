@@ -1,0 +1,6 @@
+<tank>
+   <gun>75mm</gun>
+   <armor>steel</armor>
+   <crew size= "4">people</crew>
+   <speed>50mph</speed>
+</tank>
