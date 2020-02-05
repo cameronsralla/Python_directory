@@ -34,3 +34,10 @@ def list_sum(lst):
         total = total + num
     return total
 
+def average(lst):
+    summation = 0
+    lst_len = len(lst)
+    for num in lst:
+        summation += num
+    result = summation/lst_len
+    return result
